@@ -1,3 +1,6 @@
+![](https://github.com/tamirbennatan/IP_adress_data_analysis_challenge/blob/master/image.gif)
+
+
 Instructions for use. 
 
 Please open the 'index.html' file in a browser. There you will see a visualization built from my synthetic data, and a description of my work and reasoning.
