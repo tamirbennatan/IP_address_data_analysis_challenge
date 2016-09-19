@@ -13,9 +13,9 @@ I decided to create a co-occurence matrix using D3.js. This code is modified [fr
 
 I encourage you to download this code and play around with my work. To do so:
 
-1) Download this repository.
-2) Open the 'index.html' file in a browser. There you will see a visualization built from my synthetic data, and a description of my work and reasoning.
-3) To run the scripts that create the synthetic data I use and analyze it, you will need to install the `numpy`, `pandas`  and `nataddr` libraries. To do so using [pip](https://pip.pypa.io/en/stable/):
+1. Download this repository.
+2. Open the 'index.html' file in a browser. There you will see a visualization built from my synthetic data, and a description of my work and reasoning.
+3. To run the scripts that create the synthetic data I use and analyze it, you will need to install the `numpy`, `pandas`  and `nataddr` libraries. To do so using [pip](https://pip.pypa.io/en/stable/):
 ```
 pip install numpy
 pip install pandas
